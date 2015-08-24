@@ -2,5 +2,4 @@ language: node_js
 
 # test on two node.js versions: 0.12 and 0.8.8
 node_js:
-  - 0.12
-  - 0.8.8
+  - 0.12.*
