@@ -10,6 +10,15 @@ This is the web component of a bigger application called twit-deck, that showcas
 
 It is a node.js application using angular to bind the tweets to view.
 
+## How to use:
+* ``` git clone https://github.com/anthonymonori/twit-deck-web```
+* ``` cd ./twit-deck-web```
+* ``` sudo npm install```
+* ``` ./bin/start.sh```
+
+## Development
+* Same steps as above, just instead of ```start.sh``` use ```dev_start.sh```
+
 ## To-do:
 * [x] Add to Travis-CI
 
